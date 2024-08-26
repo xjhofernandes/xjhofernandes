@@ -35,7 +35,7 @@ What I do:
 ![tool-heroku](https://img.shields.io/badge/tool-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
 📜 Usually I'm writing code on  
-![editor-vscode](https://img.shields.io/badge/editor-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
+![editor-vscode](https://img.shields.io/badge/editor-Visual%20Studio%20Code-informational?style=flat&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iLTAuNTUgMCAyMzUuMSAyMzUuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHN0eWxlPi5zdDB7ZmlsbDojMDE3OWNifTwvc3R5bGU+PHBhdGggY2xhc3M9InN0MCIgZD0iTTgzLjMgMTQzLjlsLTU4IDQ1LjJMMCAxNzYuNVY1OC43TDI1LjIgNDZsNTcuNiA0NS4zTDE3NCAwbDYwIDIzLjl2MTg2LjlsLTU5LjcgMjQuMy05MS05MS4yem04OC45IDE1LjlWNzUuM2wtNTQuNiA0Mi4zIDU0LjYgNDIuMnpNMjcuMyAxNDQuNkw1NiAxMTguNSAyNy4zIDg5Ljl2NTQuN3oiLz48L3N2Zz4=&logoColor=white&color=2bbc8a)
 ![editor-jupyter](https://img.shields.io/badge/editor-Jupyter%20Lab-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 
 🐧 I run :(){:|:&};: on  
