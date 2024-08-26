@@ -31,7 +31,8 @@ What I do:
 🔭 I'm personally interested in  
 ![tool-raspberrypi](https://img.shields.io/badge/tool-RaspberryPi-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
 ![tool-localstack](https://img.shields.io/badge/tool-LocalStack-informational?style=flat&logo=localstack&logoColor=white&color=2bbc8a)
-![code-golang](https://img.shields.io/badge/code-Golang-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
+![tool-netlify](https://img.shields.io/badge/tool-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
+![tool-heroku](https://img.shields.io/badge/tool-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
 📜 Usually I'm writing code on  
 ![editor-vscode](https://img.shields.io/badge/editor-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
