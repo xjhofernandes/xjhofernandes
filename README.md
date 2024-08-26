@@ -2,13 +2,13 @@
 
 Brazilian Python Software Developer and DevOps Engineer living in Europe 🇪🇺.
 
-I love crafting efficient solutions and diving into the world of cloud technologies (AWS / Azure).
+I love crafting efficient solutions (Python) and diving into the world of cloud technologies (AWS / Azure).
 
 What I do:
 
 * Building scalable applications with Python on AWS or Azure.
 * Automating infrastructure using Terraform/Terragrunt.
-* Applying the best practices from python (PEP8, Docstrings, flake8 and etc..)
+* Applying the best practices from Python (PyTest, PEP8, Docstrings, flake8 and etc..)
 * Optimizing workflows with CI/CD pipelines and DevOps best practices.
 
 🚀 I use Python with  
