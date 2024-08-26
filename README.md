@@ -30,6 +30,7 @@ What I do:
 
 🔭 I'm personally interested in  
 ![tool-raspberrypi](https://img.shields.io/badge/tool-RaspberryPi-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
+![tool-localstack](https://img.shields.io/badge/tool-LocalStack-informational?style=flat&logo=localstack&logoColor=white&color=2bbc8a)
 ![code-golang](https://img.shields.io/badge/code-Golang-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
 
 📜 Usually I'm writing code on  
