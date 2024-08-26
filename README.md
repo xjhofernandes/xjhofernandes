@@ -20,7 +20,7 @@ What I do:
 ![tool-azure](https://img.shields.io/badge/cloud-Azure-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=2e86c1)
 
 🛢️ I really love to save my informations on  
-![tool-sql](https://img.shields.io/badge/tool-SQL-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
+![tool-sql](https://img.shields.io/badge/tool-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![tool-mongodb](https://img.shields.io/badge/tool-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 
 
