@@ -17,7 +17,7 @@ What I do:
 🧰 I ship my projects with  
 ![tool-docker](https://img.shields.io/badge/tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![tool-aws](https://img.shields.io/badge/cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=2bbc8a)
-![tool-azure](https://img.shields.io/badge/cloud-Azure-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=2e86c1)
+![tool-azure](https://img.shields.io/badge/cloud-Azure-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=2bbc8a)
 
 🛢️ I really love to save my informations on  
 ![tool-sql](https://img.shields.io/badge/tool-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
