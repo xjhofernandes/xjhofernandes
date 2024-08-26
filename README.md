@@ -1,4 +1,4 @@
-### 👋 I'm Jonathan
+### 👋 I'm Jonathan Fernandes
 
 Brazilian Python Software Developer and DevOps Engineer living in Europe 🇪🇺.
 
