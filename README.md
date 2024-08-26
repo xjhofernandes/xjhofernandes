@@ -15,9 +15,10 @@ What I do:
 ![package-boto3](https://img.shields.io/badge/package-Boto3-informational?style=flat&logo=boto3&logoColor=white&color=2bbc8a)
 
 🧰 I ship my projects with  
-![tool-docker](https://img.shields.io/badge/tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![tool-aws](https://img.shields.io/badge/cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=2bbc8a)
 ![tool-azure](https://img.shields.io/badge/cloud-Azure-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=2bbc8a)
+![tool-docker](https://img.shields.io/badge/tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+![tool-terraform](https://img.shields.io/badge/tool-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=2bbc8a)
 
 🛢️ I really love to save my informations on  
 ![tool-sql](https://img.shields.io/badge/tool-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
