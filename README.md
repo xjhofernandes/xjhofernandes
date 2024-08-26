@@ -10,7 +10,9 @@ What I do:
 * Optimizing workflows with CI/CD pipelines and DevOps best practices.
 
 🚀 I use Python with
+![package-fastapi](https://img.shields.io/badge/package-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![package-pandas](https://img.shields.io/badge/package-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![package-boto3](https://img.shields.io/badge/package-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 
 🧰 I ship my projects with  
 ![tool-docker](https://img.shields.io/badge/tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
