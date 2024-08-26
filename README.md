@@ -9,18 +9,18 @@ What I do:
 * Applying the best practices from python (PEP8, Docstrings, flake8 and etc..)
 * Optimizing workflows with CI/CD pipelines and DevOps best practices.
 
-🚀 I use Python with
-![package-fastapi](https://img.shields.io/badge/package-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+🚀 I use Python with  
+![package-fastapi](https://img.shields.io/badge/package-FastAPI-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![package-pandas](https://img.shields.io/badge/package-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
-![package-boto3](https://img.shields.io/badge/package-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![package-boto3](https://img.shields.io/badge/package-Boto3-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 
 🧰 I ship my projects with  
 ![tool-docker](https://img.shields.io/badge/tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![tool-aws](https://img.shields.io/badge/cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=2bbc8a)
 ![tool-azure](https://img.shields.io/badge/cloud-Azure-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=2e86c1)
 
-🛢️ I really love to save my informations on
-![tool-sql](https://img.shields.io/badge/tool-SQL-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+🛢️ I really love to save my informations on  
+![tool-sql](https://img.shields.io/badge/tool-SQL-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
 ![tool-mongodb](https://img.shields.io/badge/tool-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 
 
