@@ -12,7 +12,7 @@ What I do:
 🚀 I use Python with  
 ![package-fastapi](https://img.shields.io/badge/tool-FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=2bbc8a)
 ![package-pandas](https://img.shields.io/badge/package-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
-![package-boto3](https://img.shields.io/badge/package-Boto3-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![package-boto3](https://img.shields.io/badge/package-Boto3-informational?style=flat&logo=boto3&logoColor=white&color=2bbc8a)
 
 🧰 I ship my projects with  
 ![tool-docker](https://img.shields.io/badge/tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
