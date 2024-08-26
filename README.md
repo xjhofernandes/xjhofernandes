@@ -1,6 +1,8 @@
 ### 👋 I'm Jonathan
 
-Brazilian Python Software Developer and DevOps Engineer. I love crafting efficient solutions and diving into the world of cloud technologies (AWS / Azure).
+Brazilian Python Software Developer and DevOps Engineer living in Europe 🇪🇺.
+
+I love crafting efficient solutions and diving into the world of cloud technologies (AWS / Azure).
 
 What I do:
 
