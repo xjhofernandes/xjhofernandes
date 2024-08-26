@@ -39,3 +39,4 @@ What I do:
 
 🐧 I run :(){:|:&};: on  
 ![os-ubuntu](https://img.shields.io/badge/os-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)
+![os-windows](https://img.shields.io/badge/os-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
