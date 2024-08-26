@@ -1,6 +1,6 @@
 ### 👋 I'm Jonathan Fernandes
 
-Brazilian Python Software Developer and DevOps Engineer living in Europe 🇪🇺.
+Brazilian Senior Python Developer and DevOps Engineer (AWS/Azure), living in Europe 🇪🇺.
 
 I love crafting efficient solutions (Python) and diving into the world of cloud technologies (AWS / Azure).
 
