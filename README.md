@@ -15,7 +15,6 @@ What I do:
 ![package-fastapi](https://img.shields.io/badge/tool-FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=2bbc8a)
 ![package-pandas](https://img.shields.io/badge/package-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![package-apachespark](https://img.shields.io/badge/package-PySpark-informational?style=flat&logo=apachespark&logoColor=white&color=2bbc8a)
-![package-boto3](https://img.shields.io/badge/package-Boto3-informational?style=flat&logo=boto3&logoColor=white&color=2bbc8a)
 
 🧰 I ship my projects with  
 ![tool-aws](https://img.shields.io/badge/cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=2bbc8a)
